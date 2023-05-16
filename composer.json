@@ -42,10 +42,10 @@
         "phpunit/phpunit": "^9.5.13",
         "predis/predis": "^2.0"
     },
+    "minimum-stability": "dev",
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "providers": [
