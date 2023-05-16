@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "blackfrog-co/laravel-exporter-contracts": "dev-master",
+        "renoki-co/laravel-exporter-contracts": "dev-master",
         "laravel/horizon": "^5.8"
     },
     "autoload": {
@@ -29,6 +29,12 @@
     "scripts": {
         "test": "vendor/bin/phpunit"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/blackfrog-co/laravel-exporter-contracts"
+        }
+    ],
     "require-dev": {
         "mockery/mockery": "^1.5",
         "orchestra/testbench": "^7.6|^8.0",
