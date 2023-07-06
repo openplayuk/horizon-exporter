@@ -32,7 +32,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/blackfrog-co/laravel-exporter-contracts"
+            "url": "https://github.com/openplayuk/laravel-horizon-exporter-contracts"
         }
     ],
     "require-dev": {
