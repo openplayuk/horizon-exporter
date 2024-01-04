@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "php": "8.1.*|8.2.*",
+        "php": "^8.2",
         "renoki-co/laravel-exporter-contracts": "dev-master",
         "laravel/horizon": "^5.8"
     },
